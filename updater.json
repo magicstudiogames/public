@@ -1,35 +1,5 @@
 {
-    "url": "https://github.com/Vanderclin/MobileTv/releases/download/v1.0.0/app-release.apk",
+    "url": "https://raw.githubusercontent.com/magicstudiogames/public/refs/heads/main/pixreward/app-release.apk",
     "code": 20,
-    "description": "🎉 Nova atualização disponível!\n\nNovidades:\n• Design totalmente renovado\n• Melhorias de desempenho\n• Correção de bugs\n• Novos recursos adicionados\n\nAtualize agora para aproveitar todas as novidades!",
-    "changelog": [
-        {
-            "type": "NEW",
-            "items": [
-                "Interface redesenhada",
-                "Modo escuro automático",
-                "Suporte a notificações"
-            ]
-        },
-        {
-            "type": "IMPROVED",
-            "items": [
-                "Melhor desempenho geral",
-                "Carregamento mais rápido",
-                "Consumo reduzido de bateria"
-            ]
-        },
-        {
-            "type": "FIXED",
-            "items": [
-                "Corrigido problema de login",
-                "Corrigido crash na tela inicial",
-                "Corrigido bugs menores"
-            ]
-        }
-    ],
-    "minSupportedVersion": 15,
-    "forcedUpdate": false,
-    "releaseDate": "2024-02-06",
-    "size": "15.7 MB"
+    "description": "🎉 Nova atualização disponível!\n\n• Design totalmente renovado\n• Melhorias de desempenho\n• Correção de bugs\n• Novos recursos adicionados\n\nAtualize agora para aproveitar todas as novidades!"
 }
