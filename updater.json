@@ -1,5 +1,5 @@
 {
   "url": "https://raw.githubusercontent.com/magicstudiogames/public/refs/heads/main/pixreward/app-release.apk",
-  "code": 8,
-  "description": "Melhoria nos pontos\n\t- Anúncios pulados: 1 ~ 8\n\t- Anúncios completos: 8 ~ 16\n\nCorreções de erros\n\t- O perfil do usuário pode ser atualizado apenas o campo que o usuário desejar\n\t- Nome do usuário\n\t- Data de nascimento\n\t- Chave pix"
+  "code": 9,
+  "description": "Correções de erros"
 }
