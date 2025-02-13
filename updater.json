@@ -1,5 +1,5 @@
 {
   "url": "https://raw.githubusercontent.com/magicstudiogames/public/refs/heads/main/pixreward/app-release.apk",
-  "code": 9,
-  "description": "Correções de erros"
+  "code": 10,
+  "description": "Correções de erros\n\t- Anúncios em loop corrigidos"
 }
