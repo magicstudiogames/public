@@ -1,5 +1,5 @@
 {
   "url": "https://raw.githubusercontent.com/magicstudiogames/public/refs/heads/main/pixreward/app-release.apk",
-  "code": 10,
-  "description": "Correções de erros\n\t- Anúncios em loop corrigidos"
+  "code": 11,
+  "description": "Esta versão instalará o aplicativo Pix Rewards, mas não diretamente da Play Store. Caso você possua uma versão anterior instalada por meio da Play Store, será necessário removê-la antes de prosseguir com a instalação."
 }
